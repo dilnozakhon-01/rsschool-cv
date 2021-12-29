@@ -1,6 +1,7 @@
 # Mirsaidova Dilnozakhon
-## *Student at Inha University in Tashkent (3rd year Bachelor)*
-
+## *Student at Inha University in Tashkent*
+*Computer Science*
+*3rd year Undergraduate Bachelor*
 
 ## Computer Skills
 * *HTML*
